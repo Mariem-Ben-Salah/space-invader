@@ -3,7 +3,8 @@
 <p align="center">
 
   <h1 align="center">Space invanders</h3>
-
+  <img src="https://i.ibb.co/F6hcN9S/space-invader.png">
+  
   <p align="center">
     An awesome, modern React portfolio
     <br />
@@ -25,14 +26,12 @@ blabalalla
 
 <p align="center">
   <p align="center">balbla</p>
-  <img src="screenshots/light.png" alt="Home section">
+  
 </p>
 
 ### Built With
 
-* [React JS](https://reactjs.org/)
-* [Material UI](https://material-ui.com/)
-* [Framer Motion](https://www.framer.com/motion/)
+* Python 
 
 <!-- GETTING STARTED -->
 ## Getting Started
