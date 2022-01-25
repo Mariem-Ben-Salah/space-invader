@@ -1,8 +1,8 @@
-# space-invader<!-- PROJECT PREVIEW -->
+<!-- PROJECT PREVIEW -->
 <br />
 <p align="center">
 
-  <h1 align="center">Agency website</h3>
+  <h1 align="center">Space invanders</h3>
 
   <p align="center">
     An awesome, modern React portfolio
