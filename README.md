@@ -23,13 +23,6 @@ This game was coded using OOP and the python graphical user interface (GUI) Tkin
 If someone wants to use this code, the answer is **YES** BUT please with credits !
 I've spent a non-trivial amount of effort coding and designing this game, and I am proud of it!
 
-### Screenshots
-
-<p align="center">
-  <p align="center">balbla</p>
-  
-</p>
-
 ### Built With
 
 * Python
