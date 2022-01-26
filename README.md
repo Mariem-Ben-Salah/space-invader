@@ -1,3 +1,9 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![MIT License][license-shield]][license-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
 <!-- PROJECT PREVIEW -->
 <br />
 <p align="center">
@@ -6,7 +12,6 @@
   <img src="https://i.ibb.co/F6hcN9S/space-invader.png">
   
   <p align="center">
-    An awesome, modern React portfolio
     <br />
     <br />
     <a href="https://github.com/Mariem-Ben-Salah/agence/issues">Report Bug</a>
@@ -17,10 +22,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-blabla
+Space Invaders is a classic arcade game in which you need to shoot down all the aliens.
+This game was coded using OOP and the python graphical user interface (GUI) Tkiner.
 
 ### Forking this project
-blabalalla
+If someone wants to use this code, the answer is **YES** BUT please with credits !
+I've spent a non-trivial amount of effort coding and designing this game, and I am proud of it!
 
 ### Screenshots
 
@@ -31,7 +38,8 @@ blabalalla
 
 ### Built With
 
-* Python 
+* Python
+* Tkinter 
 
 <!-- GETTING STARTED -->
 ## Getting Started
